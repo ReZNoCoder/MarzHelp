@@ -5,7 +5,7 @@ Join us on [Telegram](https://t.me/marzhelp) for support and updates.
 ## Installation
 To install **Marzhelp**, use the following command:
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/ppouria/marzhelp/main/install.>
+bash <(curl -s https://raw.githubusercontent.com/ReZNoCoder/MarzHelp/main/install.sh>
 ```
 #### Important Note
 During the installation process, **port 80** will be temporarily opened to obta>
